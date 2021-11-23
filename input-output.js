@@ -1,9 +1,3 @@
-//comentario de linha
-
-/*comentario
-de bloco
- esse comentario aparece apenas para gente 
-*/
 
 var nome, idade;
 nome = prompt("digite o seu nome")
